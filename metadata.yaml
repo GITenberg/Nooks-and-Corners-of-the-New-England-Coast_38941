@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '26710'
     url: http://www.gutenberg.org/2009/agents/26710
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38941#Nooks-and-Corners-of-the-New-England-Coast
 gutenberg_issued: '2012-02-21'
 gutenberg_type: Text
 identifiers:
