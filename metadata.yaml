@@ -1,0 +1,28 @@
+_repo: Nooks-and-Corners-of-the-New-England-Coast_38941
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Drake, Samuel Adams
+    alias: Drake, Samuel A.
+    birthdate: 1833
+    deathdate: 1905
+    gutenberg_agent_id: '26710'
+    url: http://www.gutenberg.org/2009/agents/26710
+description: ''
+gutenberg_issued: '2012-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38941'
+  lccn: 08002681
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F001'
+- !lcsh 'New England -- Description and travel'
+title: Nooks and Corners of the New England Coast
+url: http://www.gutenberg.org/ebooks/38941
